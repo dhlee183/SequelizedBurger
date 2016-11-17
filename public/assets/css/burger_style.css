@@ -1,0 +1,57 @@
+body {
+	background: gold;
+}
+
+img {
+	display: block;
+    margin: auto;
+}
+
+h2 {
+	margin-top: 5px;
+	color: darkred;
+	text-align: center;
+}
+
+#burger-list {
+	margin-left: 350px;
+}
+
+#devour-list {
+	margin-left: 600px;
+}
+
+#burger-li {
+	text-align: center;
+	background: white;
+	margin: 5px;
+	padding: 5px;
+	width: 200px;
+}
+
+#devour-li {
+	text-align: center;
+	background: lightgray;
+	margin: 5px;
+	padding: 5px;
+	width: 200px;
+}
+
+.create-update-form {
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+}
+
+.form-group {
+	margin-bottom: 5px;
+}
+
+#bu {
+	width: 300px;
+}
+
+h4 {
+	margin-top: 5px;
+	text-align: center;
+}
