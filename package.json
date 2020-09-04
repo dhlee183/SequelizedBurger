@@ -31,7 +31,7 @@
     "morgan": "^1.7.0",
     "mysql": "^2.12.0",
     "path": "^0.12.7",
-    "sequelize": "^3.25.1",
+    "sequelize": "^6.3.5",
     "serve-favicon": "^2.3.0"
   }
 }
